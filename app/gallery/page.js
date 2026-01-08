@@ -26,6 +26,7 @@ export default function GalleryPage() {
       type: 'video',
       src: '/video5796243285768937963.mp4',
     },
+    { id: 12, type: 'image', src: '/image copy 9.png' },
   ];
 
   return (
