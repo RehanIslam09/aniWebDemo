@@ -22,22 +22,26 @@ export default function LetterPage() {
             <div className={styles.text}>
               <strong>Dear Elijah,</strong>
               <p>
-                Happy 1 year anniversary baby boy♥️🥹 see how time flies like I
-                promised time goes fast bad things happen yes and i told u it'll
-                pass and it did ya bchbouchi zin 🫂🫂 we were always there for
-                each other no matter what 🫂 you never gave up on me you've
-                always did your best to make me the happiest woman ever 🫂🫂 I
-                truly adore you Elijah u mean a lot to me baby حبيبي الجميل شي
-                لي وعديتي كامل درتيه و جامي خيبتي ضني فيك 🫂 و كل غلطة درتيها
-                صححتيها قدام عينيا 🥹 انت مش كيما كامل الرجال بصك انت راجلي و
-                راجل رنا برك you're the only exception baby finding you in this
-                miserable world wasn't just a coincidence 🥹 it's way more we're
-                interlinked we've always been and we'll always be 🥹 I truly love
-                the way you take care of my heart the way you're so gentle
-                keeping it so safe, protecting me 🥹 حبيبي و روحي و حياتي و كلشي
-                عندي نحبك و نموت عليك و مكانش لي يديلك بلاصتك عندي يا العزيز على
-                قلبي ♥️ you'll always have a special place in Ranita's heart
-                🐸♥️ I promise ... You'll always be mine 💌
+                Happy 1-year anniversary, my baby 🥹❤️ Look how fast time flies.
+                Just like I promised you, time moves quickly — bad things
+                happen, but they always pass… and they did. 🤍 We’ve always been
+                there for each other, no matter what 🫂🫂 You never gave up on
+                me. You always tried your best to make me the happiest woman
+                alive, and that means everything to me 🥹🫂 I truly adore you,
+                Aiden. You mean so much to me, my love.
+                คุณคือคนที่รักษาสัญญาทุกอย่างที่ให้ไว้
+                และไม่เคยทำให้ฉันผิดหวังเลย 🥹 ทุกความผิดพลาดที่เคยเกิดขึ้น
+                คุณแก้ไขมันด้วยความจริงใจ ต่อหน้าฉันเสมอ You’re not like
+                everyone else — because you’re my man, the only one for me.
+                You’re my safe place, my strength, my heart 🫶 Finding you in
+                this miserable world wasn’t a coincidence 🥹 It’s something
+                deeper — like our souls were always connected, and always will
+                be. I truly love the way you take care of my heart — how gentle
+                you are with it, how you protect me and keep me safe 🥹
+                ที่รักของฉัน ชีวิตของฉัน ทุกอย่างของฉัน —
+                ฉันรักคุณมากกว่าคำพูดใดๆ จะอธิบายได้ 💗 You’ll always have a
+                special place in my heart 🐸❤️ I promise… you’ll always be mine
+                💌
               </p>
             </div>
           </div>
